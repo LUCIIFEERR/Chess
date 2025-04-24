@@ -3,7 +3,7 @@
 
 A clean and modular chess game built with Unity. This project demonstrates core chess mechanics like legal move calculation, turn-based logic, and capturing.
 
-![Chess Gameplay](images/chess_screenshot_1.png)
+![Chess Gameplay](Assets/screenshots/Screenshot 2025-04-24 200836.png)
 
 ## 🧩 Features
 
@@ -34,7 +34,7 @@ A clean and modular chess game built with Unity. This project demonstrates core 
 
 | Gameplay | Move Highlighting |
 |----------|-------------------|
-| ![Game Screenshot](images/chess_screenshot_1.png) | ![Highlight Example](images/chess_screenshot_2.png) |
+| ![Game Screenshot](Assets/screenshots/Screenshot 2025-04-24 200859.png) | ![Highlight Example](Assets/screenshots/Screenshot 2025-04-24 201014.png) |
 
 > Place your screenshots inside the `images/` folder in your repository.
 
@@ -46,9 +46,6 @@ A clean and modular chess game built with Unity. This project demonstrates core 
 - 🧠 AI opponent  
 - 🌐 Online multiplayer mode  
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## 🙌 Contributing
 
